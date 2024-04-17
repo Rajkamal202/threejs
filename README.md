@@ -16,7 +16,6 @@ step 1: first open terminal and write npm install
 step 2: write cd client
 step 3: write npm run dev
 and click on localhost and then you are able to access the website.
-![Screenshot 2024-04-17 154426](https://github.com/Rajkamal202/threejsproject/assets/122449211/011ea3be-1f3d-4ff0-97b5-d328d3a97d5a)
-![Screenshot 2024-04-17 154509](https://github.com/Rajkamal202/threejsproject/assets/122449211/1a73626c-22f9-4f42-a74e-cd4ce82a3269)
-![Screenshot 2024-04-17 154551](https://github.com/Rajkamal202/threejsproject/assets/122449211/4e4a5648-cfc7-4e26-be62-7bcc4be5abd9)
-![Screenshot 2024-04-17 154626](https://github.com/Rajkamal202/threejsproject/assets/122449211/0654c233-a3ec-4b0d-bd42-614332d8a93a)
+
+![Screenshot 2024-04-17 154509](https://github.com/Rajkamal202/threejs/assets/122449211/88052d50-b1a0-41f4-bb91-472efa631b5f)
+![Screenshot 2024-04-17 154551](https://github.com/Rajkamal202/threejs/assets/122449211/c5586410-cf99-4168-8a8b-36a9f7afc793)
